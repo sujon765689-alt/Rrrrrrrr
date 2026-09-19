@@ -1,0 +1,6 @@
+{
+  "name": "Om Rakib isLam",
+  "description": "Ultimate multi-platform creator toolkit for YouTube, Facebook, Instagram & TikTok monetization checks, per-view revenue calculator, and channel analytics with 4K animated background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
